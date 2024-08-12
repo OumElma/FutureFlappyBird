@@ -17,7 +17,8 @@ pygame.display.set_caption('Flappy Bird (Future)')
 font = pygame.font.SysFont('Bauhaus 93', 60)
 
 # font colors
-color = (255, 255, 255)
+color = (255, 255, 255) # White
+# color = (214,0,255) # pink
 
 # game variables
 ground_scroll = 0
